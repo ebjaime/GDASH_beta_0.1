@@ -1,4 +1,4 @@
-# GDASH_beta_0.1
+# GDASH_beta_v.0.1
 A kind of Geometry Dash game written in python, with some help from pygame.
 Lastly updated on **01/11/2018**.
 
