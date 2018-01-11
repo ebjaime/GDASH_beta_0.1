@@ -1,6 +1,6 @@
 # GDASH_beta_0.1
 A kind of Geometry Dash game written in python, with some help from pygame.
-Lastly updated on 01/11/2018.
+Lastly updated on **01/11/2018**.
 
 ## Getting started
 ### Prerequisites
@@ -27,6 +27,10 @@ It needs to be run from the terminal in such way:
 gdash_beta.py "speed"
 ```
 With the speed ranging from 1 to 3. The recommended speed for a new user would be 1.5.
+Other skins and backgrounds are available. They will need to be located at the same directory as "gdash_beta.py", when run.
+They will be included in this repository in the directory named **_skins_and_backgrouds_**.
 
+## Authors
+* Github user: **ebjaime**
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
